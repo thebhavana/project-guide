@@ -67,6 +67,58 @@ Github flow is a light weight, branch-based workflow that supports teams and pro
 **Create a branch**
 When you're working on a projkect, you're going to have a bunch of different ideas or features in progress at any given time-some of which are ready to go and some of which are not.Branching exists to help you manage this workflow.When you create a branch in your project, you're creating an environment where you can try out new ideas.Changes you make on a branch don't affect main branch,so you're free to experiment and commit changes ,safe in the knowledge that your branch won't be merged until it's ready to be reviewd by someone you're collaborating with.
 **ProTip**
-Branching is a core concept in Git, and the entire Github flow is based upon on it. There's only one rule:anything in main branch is always deployable.Because of this, it's extremely important that your new branch is created off of main when working on a feature of fix.Your branch name should be descriptive, so that others can see what is being worked on.
+Branching is a core concept in Git, and the entire Github flow is based upon on it. There's only one rule:anything in main branch is always deployable.Because of this, it's extremely important that your new branch is created off of main when working on a feature of fix. Your branch name should be descriptive, so that others can see what is being worked on.
 
 --------------------------------------------------------------------------------------------------------------------------------------
+
+**Git Handbook**
+
+**What is a Version Control System**
+A version control system tracks the history of change as people and teams collaborate on projects together. As the project envolves , teams can run tests, fix bugs, and contribute new code with the confidence that any version can be **recovered** at any time.
+Developers can review project history to find out.**Which changes were made? Who made the changes? When were the changes made? Why were the changes needed? **
+______________________________________________________________________________________________________________________________________________________________________
+
+**What is a Distributed Version Control System**
+Git is an example of a distributed version control system, commonly used for open source and commercial software development. They allow full access to every file, branch, and iteration of a project and allows every user access to a full and self-contained history of all changes. Unlike once popular centralized version control systems, DVC'S like Git don't need a constant connection to a central repository. Developers can work anywhere and collaborate asynchronously from any time zone.
+
+Without version control, team members are subject to redundant tasks, slower timelines, and multiple copies of a single project.To eliminate unnecessary work, Git and other VCSs give each contributor a unified and consistent view of a project surfacing work that's already in progress.Seeing a transparent history of changes, who made them, and how they contribute to the development of a project helps team members stay aligned while working independently.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Why Git?**
+According to the latest stack overflow developer survey, more than 70% of developers use Git, making it most used VCS in the world. Github is commonly used for both open source and commercial software development,with significant benefits for individuals, teams and businesses.
+________________________________________________________________________________________________________________________________________________________________________________
+Git lets developers see the entire timeline of thier changes, decisions, and progression of any project in one place. From the moment they access the history of a project, the developer has all thr context they need to understand it and start contributing.
+_________________________________________________________________________________________________________________________________________________________________________________
+Developers work in every time zone. With DVCs like Git, collaboration can happen at any time while maintaining source code integrity.Using branches, developers can safely propose the changes to production code.
+_________________________________________________________________________________________________________________________________________________________________________________
+Businesses using Git can break down communication barriers between teams and keep them focued  on doing thier best teamn work. Plus, Git makes it possible to align texts across a business to collaborate on major projects.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Basic GIT Commands**
+To use Git, developers use specifically commands to copy, create, change and combine code. These commands can be executed directly from command line by using an application like Github Desktop or Git Kraken. Here are some common commands for using Git.
+_________________________________________________________________________________________________________________________________________________________________________________
+Git init intializes a brand new Git repository and begins tracking an existing directory. It adds a hidden subfolder within the existing directory that houses the internal data structure required for version control.
+_________________________________________________________________________________________________________________________________________________________________________________
+Git clone creates a local copy of a project that already exists remotely.The clone includes all the project files , history and branches.
+_________________________________________________________________________________________________________________________________________________________________________________
+Git add stages a chance. Git track changes to a developer's codebase, but it's necessary to stage and take a snapshot of these changesto include them in the project's history. This command performs staging, the first part of that two step process. Any changes that are staged will become a part of the next snapshot and a part of tthe project's history. Staging and committing separately gives developers complete control over the history of thier project without changing how they code and work.
+_________________________________________________________________________________________________________________________________________________________________________________
+Git commit saves the snapshot to the project history and complete the change-tracking process. In short, a commit functions like taking a photo. Anything that's been staged with git add will become a part of the snapshot with git commit.
+_________________________________________________________________________________________________________________________________________________________________________________
+Git status shows the status of changes as untracked, modified,or staged.
+_________________________________________________________________________________________________________________________________________________________________________________
+Git branch shows the branch of being worked on locally.
+_________________________________________________________________________________________________________________________________________________________________________________
+Git merge merges line of development together.This command is typically used to combine changes made on two distinct branches.For example:a developer would merge merge when they want to combine changes from a feature branch into the main branch for deployement.
+_________________________________________________________________________________________________________________________________________________________________________________
+Git pull updates the local line of development with update from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in the local environment.
+_________________________________________________________________________________________________________________________________________________________________________________
+Git push updates the remote repository with any commits made locally to a branch.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**HOW GITHUB WORKS**
+GitHub builds a collaboration directly into the development process. Work is organized into repositories, where developers can outline requirements or directions and set expectation for team members. Then, using the Github flow, developers simply create a branch to work on updates, commit changes to save them, open a pull request to propose and discuss changes, merge pull requests once everyone is on same page.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
