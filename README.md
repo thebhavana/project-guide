@@ -1,3 +1,4 @@
+[CommandLine.docx](https://github.com/thebhavana/hello-world/files/6538776/CommandLine.docx)
 # hello-world
 Github Working 
 
@@ -122,3 +123,8 @@ Git push updates the remote repository with any commits made locally to a branch
 **HOW GITHUB WORKS**
 GitHub builds a collaboration directly into the development process. Work is organized into repositories, where developers can outline requirements or directions and set expectation for team members. Then, using the Github flow, developers simply create a branch to work on updates, commit changes to save them, open a pull request to propose and discuss changes, merge pull requests once everyone is on same page.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**MODELS FOR COLLABORATIVE DEVELOPMENT**
+**Shared repository**   **Fork and pull**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+With a shared repository, individuals and teams are explicitly designated as contributors withread, write, or administrator access. This simple permission structure, combined with features like protected branches and Marketplace, helps teams progress quickly when they adopt GitHub. For an open source project, or for projects to which any one can contribute, managing individuals permissions can be challenging, but a fork and pull request model allows anyone who can view the project to contribute. A fork is a copy of a project under an developer's personal account. Every developer has full control to thier fork and is free to implement a fix or new feature. Wiork completed in forks is either kept separate, or is surfaced back to the original project via pull request. There, the maintainers can review the suggested changes before they are merged. 
