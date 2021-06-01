@@ -36,5 +36,5 @@ _Usage:_
 _________________________________________________________________________________________________________________________________________________________________________________
 
 **_If you have new ideas or want to make some changes to this repository, you can contribute.
-@thebhavana ,is author of this repository.
-MIT LICENSE is applied to this project_**
+@thebhavana ,is author of this repository._**
+_________________________________________________________________________________________________________________________________________________________________________________
