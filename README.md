@@ -27,5 +27,14 @@ ______________________________________________________________________
 _INSTALLATION:_
 
 **_No need to install special software. A github account is all you need. You can also install gitub desktop to use same feautures working with PC/MACos or Linux. You can even install a GitHub application on phone to keep record of each working on GitHub._**
+________________________________________________________________________________________________________________________________________________________________________________
 
+_Usage:_
 
+**_GitHub is an Open Source software used by developers all around the world. Students and people working on it are increasing continuously. It provides free source code and can be enhanced by your contribution. You can also create your college and office projects. You can also work with a organization and enhance your skills._**
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+**_If you have new ideas or want to make some changes to this repository, you can contribute.
+@thebhavana ,is author of this repository.
+MIT LICENSE is applied to this project_**
