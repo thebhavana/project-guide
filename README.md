@@ -1,4 +1,4 @@
-**_Hello World_**
+**_Hello_**
 
 This is a good project for people who are **_new_** to GitHub . It gives a detailed outline of using each *feature* on GitHub. You can save your time by **_learning_** how Github works and make your **_project_** and **_contributions_** interesting.
 
