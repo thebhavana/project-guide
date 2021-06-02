@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/84395267/120445912-b5fa4f80-c3a6-11eb-8a78-174ef98b3d97.png)
-
-
+![giphy](https://user-images.githubusercontent.com/84395267/120446190-f063ec80-c3a6-11eb-97d4-17debb30fcb5.gif)
 
 <b>CREATING REPOSITORY</b>
 1. In upper right corner, next to your avatar or identicon, click + and then select new repository.
