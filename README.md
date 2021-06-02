@@ -1,10 +1,11 @@
 **PROJECT GUIDE** :woman_technologist:
+ <img src="https://user-images.githubusercontent.com/84395267/120447628-69b00f00-c3a8-11eb-8ed1-17601e493b79.gif" width="100" height="100"/>
  
 https://thebhavana.github.io/project-guide/
 
 This is a good project for people who are **_new_** to GitHub . It gives a detailed outline of using each *feature* on GitHub. You can save your time by **_learning_** how Github works and make your **_project_** and **_contributions_** interesting.
 
-> <h2>CONTENTS  TO COVER</h2>
+> CONTENTS TO COVER
 
 **_YOUR FIRST PROJECT_**
 _____________________________________________________________________
