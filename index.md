@@ -100,4 +100,36 @@ ________________________________________________________________________________
 4. git add file1.md
 5. git commit -m "edit file 1"
 6. git push
+
 ________________________________________________________________________________________________________________________________________________________________________________
+
+## GITHUB PAGES
+
+_They are **public web pages** hosted and published by GitHub. Use **Jekyll Theme** chooser to load a pre-made theme. You can modify your content and style them remotely i.e. the web or locally on your computer._
+
+1. Once you sign in, create new repository.
+2. Open Settings tab
+3. Choose theme button 
+4. Select a theme
+5. Write your content
+6.Commit changes
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+### FORKING PROJECTS
+
+_Creating a **fork** is producing personal copy of someone else's project. It acts as a sort of bridge between **original repository** and your **personal copy**. You can submit PULL Requests to help make other people's project better by offering your changes upto the original project.Pull Requests are an area of discussion._
+
+It is **core** of **Social coding** on GitHub.
+
+1. Fork the repository in header.
+2. Clone or Download
+3. Making and Pushing changes
+4. Making a Pull Request
+5. Compare and Pull Request
+6. Create Pull Request
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+## BE SOCIAL
+
