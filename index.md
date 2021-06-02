@@ -157,8 +157,83 @@ _**Digital Object Identifiers** are the **backbone** of **academic reference** a
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-### MASTERING ISSUES
+## MASTER ISSUES
 
-_
+_Issues are great way to keep track of **tasks**, **enhancements**, and **bugs** for your project. They're kind like **email** -exept that can be shared and discussed with rest of your team. Most **software projects** have bug tracker of some kind. **GitHub's tracker** is called issues, and has its own section in repository.It is special because of our focus on collaboration, references, and excellent text formatting._
+
+<b>TYPICAL ISSUE</b>
+
+* Title and Description 
+* Color-coded labels
+* Milestone
+* Assignee
+* Comments
+
+## Milestones
+_They are **group of issues** that correspond to a **project**, **feature**, or **time period**. People use them in many different ways in software development. Some milestones are..._
+1. Beta Launch - File bugs you need to fix before the launch of your beta project. It's great way to sure you're missing anything.
+2. October Sprint - File issues that you'd like to work on in October. It's great way to focus on efforts when there's lot to do so.
+3. Redesign - File issues related to redesigning of project. It's great way to collect ideas on what to work on.
+
+## Labels
+_It **organize** different types of **issues**. Issues can have as many labels as you want, and you can **filter** one or more **labels** at once. Some labels are..._
+1. css
+2. js
+3. cofirmed
+4. feature
+
+## Assignees
+_**Assignee** is one **person** that's responsible for moving the **issue forward**. They are selected the same way milestones are, through the **grey bar** at **top of issue**._
+
+## Notifications
+_There are **2** ways to recieve notifications,**email** and **web**. **Notifications** are GitHub's way to keep **up to date** with your issues. You can use them to **find out new repositories**, or just to know when someone need's your input to **move forward** on an **issue**. How you recieve notifications..._
+1. Participating
+2. Watching
+
+## @Mentions
+_It's way to reference other GitHub users inside of GitHub issues. Inside description or any comment of the issue, include the **@username** of another GitHub user to send them a notification.  Use **/cc** syntax to include people in issues._
+
+>It looks function not working. Maybe a broser bug?
+> /user1 @user2
+
+_If you **dont know specific users** to include who might be able to help you, **reference** the **team** with @mentions. If browser-bug is team under klopo organization..._
+
+>/cc@klopo/browser-bugs
+
+## References
+_Often time issues are dependent on other issues, or at least relate to one of them and you'd like to connect the two. You can refer issues by typing in a **hashtag(#)** plus the **issue number**_
+
+>Hey @user1, I think problem started in #49
+
+_By doing this, we **create** an **event** inside of issue #49. If there is issue in another repository, just include the issue number inside of the commit message. By prefacing your commits with "**Fixes**", "**Fixed**", "**Fix**", "**Closes**", "**Closed**", "**Close**" when commit is merged into main, it will close the issue. It is great way to **add visibility** into **history** of **project**._
+
+## Search
+_At **top** of each page, there is a search box that lets you **search** through issues.You can scope results by..._
+1. Keyword, such as all issues mentioning sidebar
+2. State, such as all issues mentioning sidebar that are closed.
+3. Assignee, such that all issues mentioning sidebar that were assigned to @klo
+
+## Overviews & Reports
+_Outside issue section, there are 2 other pages that help **summarize what's going on** with **issues across** all of your **repositories**._
+
+## The Issue Dashboard
+_If you use **organizations**,each one has its own Issue Dashboard that **separates** out **issue** within the organization. It is for **broader listing** of all your issues across many projects. It can be a great **tool**. Issue section of dashboard collect issues differently..._
+1. All issues in repositories you own and collaborate own
+2. Issues assigned to you
+3. Issues you've created
+
+## Pulse
+_Pulse is **snapshot** of everything that happened in **last repository** in the past week(day,past 3 month). It's a great way to catchup with repositories when you've been away and don't want the granularity notifications offer when watching a repository._
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
 
 
