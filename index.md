@@ -1,4 +1,5 @@
-![image](/images/giphy.gif)
+![image](https://user-images.githubusercontent.com/84395267/120445912-b5fa4f80-c3a6-11eb-8a78-174ef98b3d97.png)
+
 
 
 <b>CREATING REPOSITORY</b>
