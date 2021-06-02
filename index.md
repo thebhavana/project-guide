@@ -1,4 +1,4 @@
-![image](/images/https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+![image](/images/giphy.gif)
 
 
 <b>CREATING REPOSITORY</b>
