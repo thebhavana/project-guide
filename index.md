@@ -133,3 +133,32 @@ ________________________________________________________________________________
 
 ## BE SOCIAL
 
+_With more and more people joining GitHub and adding projects everyday, keeping up with them all can be difficult. This can be **fun** and **easy** by **following users** or **watching reposityories**, or simply showing interst by **starring**, or using **explore** to find out new people and projects._
+
+1. Follow a friend
+2. Watch a project's repository
+3. Stargazing
+4. Discover repositories
+5. Explore/Newsletter
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+### MAKING CITABLE CODE
+
+_**Digital Object Identifiers** are the **backbone** of **academic reference** and **metric systems**. If you're a researcher writing software, this will explain you how to make the work you share on GitHub by **archiving** one of your GitHub **repositories** and assigning a DOI with the data archiving tool **Zenodo**_
+
+1. Choose your repository
+2. Login to Zenodo
+3. Pick repository to archive
+4. Click repository settings
+5. Create new release
+6. Minting a DOI
+7. FINISHING UP
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+### MASTERING ISSUES
+
+_
+
+
