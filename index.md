@@ -8,6 +8,8 @@ Commits are saved changes on Github, with a description explaining why a particu
 Pull request includes proposing changes and requesting others to review and pull in your contribution to merge into thier branch.
 Merging pull request means bringing changes together._
 _________________________________________________________________________________________________________________________________________________________________________________
+
+
 <b>CREATING REPOSITORY</b> 💼
 1. In upper right corner, next to your avatar or identicon, click + and then select new repository.
 2. Name your repository myfirst-repo.
