@@ -40,11 +40,11 @@
 * Proposing pull request
 * Submitting pull request review
 
-<b>GITHUB FLOW</b>
+## GITHUB FLOW
  
 *It is light weight, branch-based workflow that supprts teams and projects where deployements are made regularly. When you **create a branch** in project, you're creating an environment where you try out new ideas. Changes you make on a branch dont affect main branch, so you are free to experiment and commit changes, safe in the knowledge that your branch won't be merged until it's ready to be reviewed by someone you're **collaborating** with.Your branch name should be descriptive because it is created off main when working on a **feature** or **fix**.*
 
-<b>GIT HANDBOOK</b>
+## GIT HANDBOOK
 
 _Version control system tracks (**VCS**) history of change as people and teams collaborate on projects together. As the project envolves, teams can **run tests**, **fix bugs**, and **contribute new code** with the confidence that any version can be recovered at any time. Developers can also **review project history** to find..._
 *  Which changes were made?
@@ -143,7 +143,7 @@ _With more and more people joining GitHub and adding projects everyday, keeping 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-### MAKING CITABLE CODE
+### CITABLE CODE
 
 _**Digital Object Identifiers** are the **backbone** of **academic reference** and **metric systems**. If you're a researcher writing software, this will explain you how to make the work you share on GitHub by **archiving** one of your GitHub **repositories** and assigning a DOI with the data archiving tool **Zenodo**_
 
@@ -193,15 +193,18 @@ _There are **2** ways to recieve notifications,**email** and **web**. **Notifica
 ## @Mentions
 _It's way to reference other GitHub users inside of GitHub issues. Inside description or any comment of the issue, include the **@username** of another GitHub user to send them a notification.  Use **/cc** syntax to include people in issues._
 
+
 >It looks function not working. Maybe a broser bug?
 > @user1 @user2
 
 _If you **dont know specific users** to include who might be able to help you, **reference** the **team** with @mentions. If browser-bug is team under klopo organization..._
 
+
 >/cc@klopo/browser-bugs
 
 ## References
 _Often time issues are dependent on other issues, or at least relate to one of them and you'd like to connect the two. You can refer issues by typing in a **hashtag(#)** plus the **issue number**_
+
 
 >Hey @user1, I think problem started in #49
 
@@ -227,13 +230,34 @@ _Pulse is **snapshot** of everything that happened in **last repository** in the
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
+## MARKDOWN RULES
 
+_It is **easy-to-use** syntax for **styling** all forms of **writing** on the GitHub platform. It is a way to style text on web. You can **control** the **display** of document, formatting words such as **bold** or **italic**, **adding images**, **creating lists**, etc. I t is regular text with few non-alphabetical character thrown like #, *, >. Places to use Markdown..._
+1. Gists
+2. Comments in issues and Pull Requests
+3. Files with .md and .markdown extension
 
+* Headers - #
+* Emphasis - ** ,* , _ , __
+* Lists - (Orderd) 1. ,2. ,3. (Unordered) * ,* ,*
+* Images - ![Alt text](url)
+* Links - [GitHub](https://github.com)
+* Blockquote - >
+* Inlinecode - '<addr>' 
+* Strikethrough - ~~  ~~
+* Emoji - :emoji-name:
+* Mention - @
+* Syntax-highlight - '''    '''
+* Tasklist - (complete item) -[x] , (incomplete item) -[] 
+* Tables - | and - 
 
-
-
-
-
-
-
-
+ |header1|header2|
+ |-------|-------|
+ |cell1  |cell2  |
+ |cell3  |cell4  |
+ 
+ _______________________________________________________________________________________________________________________________________________________________________________
+ 
+ ## DOCUMENTING PROJECTS
+ 
+ 
