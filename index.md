@@ -249,8 +249,8 @@ _It is **easy-to-use** syntax for **styling** all forms of **writing** on the Gi
 * Mention - @
 * Syntax-highlight - '''    '''
 * Tasklist - (complete item) -[x] , (incomplete item) -[] 
-* Tables - | and - 
-
+* Tables : - , | 
+  ---------------
  |header1|header2|
  |-------|-------|
  |cell1  |cell2  |
