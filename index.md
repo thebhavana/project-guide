@@ -266,7 +266,7 @@ _It is **easy-to-use** syntax for **styling** all forms of **writing** on the Gi
  
  _______________________________________________________________________________________________________________________________________________________________________________
  
- ## DOCUMENTING PROJECTS 📄 
+ **DOCUMENTING PROJECTS** 📄 
  
  _**Good Documentation** is **key** to **success** of any project. Making accessible documentation **enables** people to **learn** about a **project**, making it **easy to update** ensures that documentation stays **relevant**. Common ways are **README** files and **WIKIS**. Wikis help you present in-depth information about project. Readme's are quick and simple way for other users to learn more about your work. Formats of Readme are..._
  
@@ -287,6 +287,5 @@ _It is **easy-to-use** syntax for **styling** all forms of **writing** on the Gi
  * Syntax highlighting
  _______________________________________________________________________________________________________________________________________________________________________________
   
-  HOPE IT IS USEFUL ◾ ◾ ◾
-  cc/@thebhavana
- 
+ ◾ ◾ ◾
+<img src="https://media.giphy.com/media/3oEduLRlHYWFNWNkTC/giphy.gif" width="200" height="150"/>
