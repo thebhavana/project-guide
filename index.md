@@ -194,7 +194,7 @@ _There are **2** ways to recieve notifications,**email** and **web**. **Notifica
 _It's way to reference other GitHub users inside of GitHub issues. Inside description or any comment of the issue, include the **@username** of another GitHub user to send them a notification.  Use **/cc** syntax to include people in issues._
 
 >It looks function not working. Maybe a broser bug?
-> /user1 @user2
+> @user1 @user2
 
 _If you **dont know specific users** to include who might be able to help you, **reference** the **team** with @mentions. If browser-bug is team under klopo organization..._
 
