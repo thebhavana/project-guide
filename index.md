@@ -129,7 +129,7 @@ _They are **public web pages** hosted and published by GitHub. Use **Jekyll Them
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-### FORKING PROJECTS 🍴 ✨
+### FORKING PROJECTS ✨
 
 _Creating a **fork** is producing personal copy of someone else's project. It acts as a sort of bridge between **original repository** and your **personal copy**. You can submit PULL Requests to help make other people's project better by offering your changes upto the original project.Pull Requests are an area of discussion._
 
@@ -285,7 +285,6 @@ _It is **easy-to-use** syntax for **styling** all forms of **writing** on the Gi
  * Adding content
  * Adding Pages
  * Syntax highlighting
- _______________________________________________________________________________________________________________________________________________________________________________
   
  ◾ ◾ ◾
 <img src="https://media.giphy.com/media/3oEduLRlHYWFNWNkTC/giphy.gif" width="200" height="150"/>
