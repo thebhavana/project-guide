@@ -125,7 +125,7 @@ _They are **public web pages** hosted and published by GitHub. Use **Jekyll Them
 3. Choose theme button 
 4. Select a theme
 5. Write your content
-6.Commit changes
+6. Commit changes
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
@@ -144,7 +144,7 @@ It is **core** of **Social coding** on GitHub.
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-## BE SOCIAL 🧑‍🤝‍🧑 👥
+## BE SOCIAL👥
 
 _With more and more people joining GitHub and adding projects everyday, keeping up with them all can be difficult. This can be **fun** and **easy** by **following users** or **watching reposityories**, or simply showing interst by **starring**, or using **explore** to find out new people and projects._
 
