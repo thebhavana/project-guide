@@ -101,9 +101,9 @@ ________________________________________________________________________________
 2. cd my-repo
 3. touch README.md
 4. git add README.md
-5. git commit -m "add README to initial commit"
+5. git commit -m "add README"
 6. git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-7. git push --set-upstream origin main
+7. git push --set-upstream origin master
 
 * Contribute to existing branch on GitHub
 
